@@ -36,3 +36,6 @@
 
 
 <a href="https://app.daily.dev/WebDevsOp"><img src="https://api.daily.dev/devcards/90d774da4a8f4e75bffda148757119c7.png?r=6ng" width="400" alt="Abacus with Rehan's Dev Card"/></a>
+
+![](https://raw.githubusercontent.com/shaikrehan123/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shaikrehan123/github-stats/master/generated/overview.svg#gh-light-mode-only)
