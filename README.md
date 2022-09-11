@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/webdevsop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="webdevsop" height="30" width="40" /></a>
-<a href="https://twitter.com/opwebdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opwebdevs" height="30" width="40" /></a>
+<a href="https://twitter.com/WebdevsShaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opwebdevs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rehan-shaik-88a94721a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehan-shaik-88a94721a" height="30" width="40" /></a>
 <a href="https://fb.com/rehan shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehan shaik" height="30" width="40" /></a>
 <a href="https://instagram.com/opwebdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opwebdevs" height="30" width="40" /></a>
