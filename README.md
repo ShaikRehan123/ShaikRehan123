@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikrehan123&label=Profile%20views&color=0e75b6&style=flat" alt="shaikrehan123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/opwebdevs" target="blank"><img src="https://img.shields.io/twitter/follow/opwebdevs?logo=twitter&style=for-the-badge" alt="opwebdevs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/WebdevsShaik" target="blank"><img src="https://img.shields.io/twitter/follow/WebdevsShaik?logo=twitter&style=for-the-badge" alt="WebdevsShaik" /></a> </p>
 <img src="https://user-images.githubusercontent.com/83860384/180274599-f2a26c1a-1ac2-4d0a-8801-37dbabac10a7.jpeg" alt="Rehan Shaik Banner" />
 
 - 🔭 I’m currently working on [Recipes App](Will Post Here Soon)
