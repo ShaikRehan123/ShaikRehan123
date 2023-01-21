@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Next.js, Html, TailwindCss, Javascript, Github, Python, Mathematics, Git and more.**
 
-- 📫 How to reach me **rehanshaik@webdevsop.tech**
+- 📫 How to reach me **abacusrehan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
