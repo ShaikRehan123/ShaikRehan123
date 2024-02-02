@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/WebdevsShaik" target="blank"><img src="https://img.shields.io/twitter/follow/WebdevsShaik?logo=twitter&style=for-the-badge" alt="WebdevsShaik" /></a> </p>
 <img src="https://user-images.githubusercontent.com/83860384/229469978-35b8657b-db99-4c8c-817c-2542045b58df.png" alt="Rehan Shaik Banner" />
 
-- 🔭 I’m currently working on [Recipes App](Will Post Here Soon)
+- 🔭 I’m currently working on Personal CMS Project for Family Business
 
 - 🌱 I’m currently learning **React, Next.js, Affiliate Marketing, Typescript.**
 
